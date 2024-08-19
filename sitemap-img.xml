@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://parsalakzian.nlco.site/</loc>
+	<lastmod>2024-08-19T22:26:26+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/unnamed.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/HTML.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/CSS.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/JS.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/Bootstrap.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/C.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/Python.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/skills/MongoDB.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/tools/vscode.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/tools/github.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/tools/canva.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/tools/Figma.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/tools/ChatGPT.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://parsalakzian.nlco.site/assets/images/tools/Gemini.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://parsalakzian.nlco.site/fa</loc>
+	<lastmod>2024-08-19T22:26:26+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
